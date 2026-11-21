@@ -6,7 +6,7 @@
 
 *Interested in understanding how systems and networks work — and how to keep them secure.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/adrian-novio-vilarino-7a1286295/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-novio-vilarino-7a1286295/)
 
 </div>
 
@@ -28,10 +28,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=58A6FF" />
   <img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration%20Testing-21262D?style=flat-square&logo=kalilinux&logoColor=58A6FF" />
 </p>
-
-### 📚 Currently exploring
-
-I'm continuing to develop my knowledge of **systems, networking and security**, with a special interest in practical learning and understanding the technologies behind secure infrastructure.
 
 ---
 
